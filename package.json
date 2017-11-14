@@ -1,5 +1,5 @@
 {
-  "name": "vue-npm-con",
+  "name": {{projectName}},
   "version": "1.0.0",
   "description": "a tool is used to publish the npm packages for creating a vue component library",
   "main": "index.js",
